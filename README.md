@@ -74,11 +74,6 @@ Or via requirements.txt:
 pip install -r requirements.txt
 
 
-🔒 Security Notes
-
-    Never commit .env or real phone numbers to GitHub.
-    Use .gitignore to exclude sensitive files.
-
 👩‍💻 Author
 
 Nupur Shivani
